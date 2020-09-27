@@ -11,5 +11,6 @@
 * Hence, I propose some modified and fine-tune Deep Learning algorthms with transfer learning for classification task of brain tumors. Regarding to my best knowledge, my work achieves the state-of-the-art result.
 * The dataset can be downloaded from here [https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri]
 * The codes are stored in the notebooks folder. The predicted results can be seen in the Confusion Matrices folder.
-* My trained weights of models can be downloaded at 'release'
+* My trained weights of models can be downloaded at RELEASE
+
 ** creator: Duong Tuan Linh
