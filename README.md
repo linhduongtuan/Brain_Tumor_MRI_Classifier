@@ -2,7 +2,7 @@
 * A Brain tumor is considered as one of the aggressively cancerous diseases, with a wide range of age. 
 * Brain tumors account for 85 to 90 percent of all primary Central Nervous System (CNS) tumors. 
 * Among all primary Central Nervous System tumors, brain tumors comprise 85 - 90%.
-* 11,700 people are annually diagnosed with a brain tumor. The 5-year survival rate in patients acquired CNS tumors is very low and approximately 34% and 36% for man and women, respectively. 
+* 11,700 people are annually diagnosed with a brain tumor. The 5-year survival rate in patients acquired CNS tumors is very low and approximately 34% and 36% for men and women, respectively. 
 * Brain Tumors are classified as: (1) Benign Tumor or (2) Malignant Tumor, or/and kind of tumors like: (3) Pituitary Tumor, (4) Meningioma, (5) Glioma, ect. 
 * Life expectancy and quality of the patients can be improved if they are diaganosed early and accurately, and given proper treatment as well. 
 * Magnetic Resonance Imaging (MRI) technique is routine detecting method for brain tumor(s). The MRI captures a huge amount of images which are examined by radiologists. The level of complexities associated with brain tumors and their properties leads to high misclassification. 
@@ -11,6 +11,6 @@
 * Hence, I propose some modified and fine-tune Deep Learning algorthms with transfer learning for classification task of brain tumors. Regarding to my best knowledge, my work achieves the state-of-the-art result.
 * The dataset can be downloaded from here [https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri]
 * The codes are stored in the notebooks folder. The predicted results can be seen in the Confusion Matrices folder.
-* My trained weights of models can be downloaded at RELEASE
+* My trained weights of models can be downloaded at RELEASES
 
 ** creator: Duong Tuan Linh
